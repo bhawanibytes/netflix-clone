@@ -1,4 +1,4 @@
-Live Preview - https://bhawanibytes.github.io/netflix-clone/index.html
+Live Preview - https://bhawanibytes.github.io/netflix-clone
 
 This is a Netflix homepage clone.
 It has two major Features, both are based on APIs.
