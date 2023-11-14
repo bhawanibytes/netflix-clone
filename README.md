@@ -1,3 +1,5 @@
+Live Preview - https://bhawanibytes.github.io/netflix-clone/index.html
+
 This is a Netflix homepage clone.
 It has two major Features, both are based on APIs.
  - API from https://developer.themoviedb.org/docs  //It basically calls the movies data like Name, Posters. It can be filterd by categories like Romance, Drama, Horror, Thirrler and Action
