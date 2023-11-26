@@ -129,7 +129,7 @@ function searchMovieTrailer(movieName, iframId) {
             console.log(elements, iframId);
 
             const div = document.createElement('div');
-            div.innerHTML = `<iframe width="245px" height="150px" src="https://www.youtube.com/embed/${bestResult.id.videoId}?autoplay=1&controls=0"></iframe>`
+            div.innerHTML = `<iframe width="245px" height="150px" src="https://www.youtube.com/embed/${bestResult.id.videoId}?autoplay=1&controls=1"></iframe>`
 
             elements.append(div);
 
