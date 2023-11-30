@@ -9,7 +9,7 @@ function submitForm() {
         enteredPassword === "wewillrock"
     ) {
         // Programmatic redirect using JavaScript
-        window.location.href = 'home.html';
+        window.location.href = 'homepage/home.html';
         return false; // Prevents the form from submitting via traditional means
     } else {
         // Display an error message
