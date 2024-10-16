@@ -1,4 +1,4 @@
-Live Preview - https://bhawanibytes.github.io/netflix-clone
+Live Preview - https://netflix-nine-beryl.vercel.app/
 
 This is a Netflix homepage clone.
 It has two major Features, both are based on APIs.
